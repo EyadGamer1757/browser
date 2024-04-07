@@ -1,0 +1,18 @@
+import time
+import webbrowser
+time.sleep(1)
+a=input("")
+print("Search for anything you want😉😎")
+print("The website you typed about ({0})".format(a))
+time.sleep(1)
+print('.')
+time.sleep(1)
+print('.')
+time.sleep(1)
+print('.')
+time.sleep(1)
+print('.')
+time.sleep(1)
+print('.')
+webbrowser.open('https://www.'+a)
+webbrowser.open_new_tab('https://eyadgamer1757.github.io/The_best_Browser/')
